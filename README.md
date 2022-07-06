@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dasabhishk
-- 👀 I’m interested in Machine Learning and Application Development
+- 👀 I’m interested in Machine Learning, Application Development and System Design
 - 🌱 I’m currently learning Data Science and Python
 - 💞️ I’m looking to collaborate on end-to-end real impact projects in Python
 - 📫 How to reach me - email me at abhishek.das@philips.com / d.abhishek1999@gmail.com
