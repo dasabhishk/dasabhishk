@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dasabhishk
 - 👀 I’m interested in Gen AI, Process Automation, Application Development
-- 🌱 I’m currently learning .NET WPF C# to build native windows applications
+- 🌱 I’m currently learning ElectronJs to build cross-platform desktop applications
 - 💞️ I’m looking to collaborate on end-to-end real impact projects!
 - 📫 How to reach me - email me at abhishek.das@philips.com / d.abhishek1999@gmail.com
 
